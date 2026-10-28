@@ -28,10 +28,10 @@ A customizable Android focus timer designed to make productive study sessions si
 ## 📸 Screenshots
 
 ### ⏱️ Timer Screen
-![Focus Timer Screen](screenshots/Home Screen.jpg)
+![Focus Timer Screen](screenshots/Home_Screen.jpg)
 
 ### 🎨 Modes Screen
-![Timer Modes Screen](screenshots/Timer Modes.jpg)
+![Timer Modes Screen](screenshots/Timer_Modes.jpg)
 
 ### ⚙️ Settings Screen
 ![Settings Screen](screenshots/Settings.jpg)
