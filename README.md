@@ -82,13 +82,20 @@ The goal of Focus Timer is to provide a simple, customizable productivity tool t
 - Focus-session history
 - Additional timer customization
 
+## 📲 Download the App
+
+Download the latest APK from the
+[Releases](../../releases/latest) page.
+
+Install it on your Android phone to try Focus Timer!
+
 ## 👩‍💻 Author
 
 **Nathasha Vipin**
 
 Computer Science and Engineering Student
 
-[GitHub Profile](https://github.com/YOUR-USERNAME)
+[GitHub Profile](https://github.com/nathasha07)
 
 ---
 
